@@ -51,4 +51,4 @@ Appreciated how Python can be used to reduce repetitive work and ensure consiste
 
 Conclusion: This task demonstrates the power of automation in data analysis and reporting. By combining pandas for backend analysis and fpdf for frontend PDF generation, I built a lightweight reporting tool that could be extended to larger datasets or more advanced formats. It’s a practical skill that has applications in education, business, and personal analytics.
 
-#output student_report.pdf
+#output 
